@@ -1,6 +1,6 @@
 # google-adk-server-example
 
-這是 Google ADK Server 官方提供的範例所建置的非官方專案，讓大家可以用 Docker 啟動服務。
+這是 Google ADK 官方提供的範例所建置的非官方專案，讓大家可以用 Docker 啟動服務。
 
 ## 如何運行？
 
