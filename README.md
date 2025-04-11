@@ -1,6 +1,6 @@
-# google-adk-a2a-example
+# google-adk-server-example
 
-Google A2A Server 建置官方範例專案，使用 Google ADK (Agent Development Kit) 建立一個可透過 FastAPI 測試的本地代理伺服器。
+使用 Google ADK Server 建置官方範例專案。
 
 ## 如何運行？
 
@@ -45,7 +45,9 @@ docker run --rm -d --name google-adk-server -p 8000:8000 \
 
 ---
 
-本專案為 Google 官方 A2A 架構學習範例，不建議直接用於生產環境，請依實際業務需求進行調整。
+本專案為 Google 官方 ADK 架構學習範例，不建議直接用於生產環境，請依實際業務需求進行調整。
+
+---
 
 ## 作者簡介
 
